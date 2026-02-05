@@ -1,0 +1,35 @@
+{
+  "node": {
+    "40978c42ae0f66b6cf0a561358b3c14a6340e71826": {
+      "workers": {
+        "app/page": {
+          "moduleId": 58486,
+          "async": false,
+          "exportedName": "validateAccess",
+          "filename": "src/app/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "validateAccess",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "00b24a33f17581d0c80c36155f7725054c7b401913": {
+      "workers": {
+        "app/page": {
+          "moduleId": 58486,
+          "async": false,
+          "exportedName": "checkAccess",
+          "filename": "src/app/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "checkAccess",
+      "filename": "src/app/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}
